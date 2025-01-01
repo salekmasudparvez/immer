@@ -151,9 +151,10 @@ console.log(obj2.address.city); // Output: Khulna (updated)
 
 ---
 
-## 📝 License
+## License
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more information.
+This project is licensed under the **Apache 2.0 License** - see the [LICENSE](LICENSE) file for details.
+
 
 ---
 
